@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(to right, #0f172a, #020617);
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  color: cyan;
+  margin-top: 50px;
+}
+
+p {
+  font-size: 18px;
+}
